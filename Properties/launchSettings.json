@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GuiForDentalA": {
+      "commandName": "Project",
+      "sqlDebugging": false
+    }
+  }
+}
